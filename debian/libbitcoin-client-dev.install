@@ -1,0 +1,6 @@
+usr/include/bitcoin/*.hpp
+usr/include/bitcoin/client/*.hpp
+usr/include/bitcoin/client/obelisk/*.hpp
+usr/lib/lib*.a
+usr/lib/lib*.so
+usr/lib/pkgconfig/*.pc
