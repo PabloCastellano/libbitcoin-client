@@ -1,4 +1,4 @@
-libbitcoin-client (2.2.0) unstable; urgency=medium
+libbitcoin-client (2.2.0) xenial; urgency=medium
 
   * Non-maintainer upload.
   * New upstream release v2.2.0.
